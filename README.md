@@ -1,13 +1,17 @@
-<!---
-- 👋 Hi, I’m @shikhar730
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Shikhar Mishra!
 
-shikhar730/shikhar730 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my corner of the Internet.
 
-# Hi, Shikhar here!
-...
+I like **Artificial Intelligence** and **Machine Learning**. 
+
+I also know a few bits and bytes of **web development**.
+
+
+### Tech I use
+- **Languages:** Python, JavaScript, HTML/CSS, SQL.
+- **Frameworks:** PyTorch, NumPy, Pandas, React, Next.js, Node, Express, and such.
+- **Tools/Software:** Git, VSCode, Jupyter, linux.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shikhar-mishra-490248224)
