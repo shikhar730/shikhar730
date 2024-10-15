@@ -4,7 +4,7 @@ Welcome to my corner of the Internet.
 
 I like **Artificial Intelligence** and **Machine Learning**. 
 
-I also know a few bits and bytes of **web development**.
+I also know a fair bit of **web development**.
 
 
 ### Tech I use
